@@ -1,0 +1,34 @@
+{
+  "name": "swagger-ui-boards",
+  "version": "1.0.0",
+  "description": "Gathers swagger-ui apps with own server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssricardo/swagger-ui-boards.git"
+  },
+  "keywords": [
+    "swagger",
+    "express"
+  ],
+  "author": "ricardo saturnino",
+  "license": "LGPL3",
+  "bugs": {
+    "url": "https://github.com/ssricardo/swagger-ui-boards/issues"
+  },
+  "homepage": "https://github.com/ssricardo/swagger-ui-boards#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-error-pages": "^2.0.0",
+    "request": "^2.88.0",
+    "swagger-ui-express": "^4.1.2"
+  },
+  "devDependencies": {
+    "webpack": "^4.41.1",
+    "webpack-cli": "^3.3.9",
+    "webpack-node-externals": "^1.7.2"
+  }
+}
