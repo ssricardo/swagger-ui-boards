@@ -27,7 +27,7 @@
     "swagger-ui-express": "^4.1.2"
   },
   "devDependencies": {
-    "serialize-javascript": ">=2.1.1",
+    "serialize-javascript": ">=3.1.0",
     "webpack": "^4.41.5",
     "webpack-cli": "^3.3.9",
     "webpack-node-externals": "^1.7.2"
