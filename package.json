@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/ssricardo/swagger-ui-boards#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "http-error-pages": "^2.0.0",
     "request": "^2.88.0",
     "swagger-ui-express": "^4.1.2"
